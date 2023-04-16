@@ -10,26 +10,28 @@
   4. 语言切换由`navbar`文件配置。
 
 ## Directory structure
+```
 .  
 ├── CNAME                     //github配置  
-├── .nojekyll                     //github配置不忽略`_开头`的文件  
+├── .nojekyll                 //github配置不忽略`_开头`的文件  
 ├── README.md                 //此文档仅用作github展示  
 ├── sw.js                     //缓存配置  
 ├── _coverpage.md             //封面  
 ├── index.html                //网站index配置  
 ├── style                     //本地css，js，image图片  
 ├── en-us                     //英文博客目录  
-│       ├── 01_proactive            //英文博客下的文章目录之一  
-│       └── README.md               //英文博客主页  
-│       └── assets               //此目录下用到的静态资源  
-│       └── _navbar.md                //顶部导航  
-│       └── _sidebar.md               //侧边目录    
+│       ├── 01_proactive      //英文博客下的文章目录之一  
+│       └── README.md         //英文博客主页  
+│       └── assets            //此目录下用到的静态资源  
+│       └── _navbar.md        //顶部导航  
+│       └── _sidebar.md       //侧边目录    
 └── zh-cn                     //中文博客目录  
-        ├── 01_proactive            //中文博客下的文章目录之一  
-        └── README.md               //中文博客主页  
-        └── _navbar.md              //中文顶部导航栏  
-        └── _sidebar.md             //中文侧边栏  
-        └── assets               //此目录下用到的静态资源  
+        ├── 01_proactive      //中文博客下的文章目录之一  
+        └── README.md         //中文博客主页  
+        └── _navbar.md        //中文顶部导航栏  
+        └── _sidebar.md       //中文侧边栏  
+        └── assets            //此目录下用到的静态资源  
+```
 
 
 
