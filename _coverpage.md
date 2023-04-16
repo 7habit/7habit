@@ -10,5 +10,5 @@
 
 
 [Twiter](https://twitter.com/william_7habit)
-[Read](/README.md)
+[Read](/en-us/README.md)
 

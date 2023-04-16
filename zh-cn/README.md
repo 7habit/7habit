@@ -1,41 +1,43 @@
+# 基于docsify的个人博客网站，具有多语言切换、分页、页脚和代码复制功能。
 ## 介绍
-### 什么是7Habit
-《高效能人士的七个习惯》是史蒂芬·柯维的一本自我提升书籍。它引入了一种整体的、综合的、以原则为中心的方法来解决个人和专业问题。这 7 个习惯是一组可以帮助人们在工作和生活中变得更有效率的行为。
+- 参考网站：[7habit.top](https://7habit.top)
+- 官方文档：[https://github.com/docsifyjs/docsify-cli](https://github.com/docsifyjs/docsify-cli)
 
-### Why practice
-There are several reasons to practice the 7 Habits:
+>7habit是一个基于docsify生成的个人博客网站，主要实现多语言控制。简单的侧边栏和顶部导航，markdown文字。这个主要分支是初始版本，并且是免费的。
+  1. 网站的主页配置默认是英文，如果你想默认为中文可以自行切换。
+  2. 根目录下的`sidebar、navbar、README`文件需与主语言对应，主语言文件夹下的README需和根目录下的README相同。
+  3. 其他语言自行配置`sidebar、navbar、README`。
+  4. 语言切换由`navbar`文件配置。
 
-1. Achieve self-mastery. Learn to build your character and personality.
-2. Develop effective leadership. Improve your ability to lead in a principle-centered way. 
-3. Enhance teamwork and cooperation. Achieve better relationships and team synergy. 
-4. Increase productivity. Build capability to prioritize, focus and get important things done. 
-5. Maintain work-life balance. Find ways to stay motivated and fulfill all roles with integrity.
-6. Continuously improve. Cultivate the habit of constant progress and lifelong learning.
-
-
-### How to prepare
-To prepare for practicing the 7 Habits, here are some suggestions:
-
-1. Read the book "The 7 Habits of Highly Effective People" and use the workbook to deepen your understanding.
-2. Assess your current habits and effectiveness using the 7 Habits Profile tool. See where you need improvements.
-3. Start with small changes and commitments. Don't try to change everything at once. Focus on one habit at a time.
-4. Find an accountability partner or form a small group. Share learning and experience together. 
-5. Review the habits regularly. Use reminders to practice them in work and life. Develop your own materials or tools. 
-6. Be patient and maintain a growth mindset. Developing good habits takes time and continuous effort. But the rewards are worth it!
-7. Apply and share the 7 Habits. Look for ways to benefit people around you while improving your own practice. Help others be effective too.
-
-
-### What I can bring to readers
-My practice of the 7 Habits can provide valuable insights and lessons for readers in several ways: 
-
-1. By sharing my experience of studying and applying the 7 Habits, readers can gain a more personal and practical understanding of this transformative methodology beyond theoretical knowledge. Through specific examples, stories and reflections in my practice logs, readers can see what each Habit actually looks like in real work and life situations. 
-2. By documenting my challenges, difficulties and even failures along the journey, readers can get a more balanced and realistic view of what it takes to develop the 7 Habits. Self-improvement is a dynamic process that requires patience and persistence through ups and downs. My logs can inspire others to start and stay motivated. 
-3. By assessing my progress and key accomplishments from practicing the 7 Habits over time, readers can appreciate the significant benefits and positive changes it can bring to people who make the effort to internalize and apply it. These results can range from better productivity and work-life harmony to stronger relationships and a leader mindset. 
-4. In summary, through the practice logs, readers can gain practical insights into the 7 Habits, understand the challenges involved, stay motivated and consistent, and ultimately achieve their own breakthrough by learning from the outcomes and growth I have experienced. My goal is to spread the profound and transformative wisdom contained within the 7 Habits through authentic stories of struggle and victory.
-5. This highlights how documenting and sharing your practice journey of the 7 Habits can inspire and help others in their own journey. By making your experience transparent and accessible, readers get to see both the inspiring outcomes as well as the messy process. This can motivate them to start and sustain their self-improvement effort to ultimately achieve life-changing results.
+## Directory structure
+```
+.  
+├── CNAME                     //github配置  
+├── .nojekyll                 //github配置不忽略`_开头`的文件  
+├── README.md                 //此文档仅用作github展示  
+├── sw.js                     //缓存配置  
+├── _coverpage.md             //封面  
+├── index.html                //网站index配置  
+├── style                     //本地css，js，image图片  
+├── en-us                     //英文博客目录  
+│       ├── 01_proactive      //英文博客下的文章目录之一  
+│       └── README.md         //英文博客主页  
+│       └── assets            //此目录下用到的静态资源  
+│       └── _navbar.md        //顶部导航  
+│       └── _sidebar.md       //侧边目录    
+└── zh-cn                     //中文博客目录  
+        ├── 01_proactive      //中文博客下的文章目录之一  
+        └── README.md         //中文博客主页  
+        └── _navbar.md        //中文顶部导航栏  
+        └── _sidebar.md       //中文侧边栏  
+        └── assets            //此目录下用到的静态资源  
+```
 
 
-## My social accounts
-  - E-mail：william_7habit@outlook.com
-  - Twiter：[@william_7habit](https://twitter.com/william_7habit)
-  - Instagram：[william_7habit](https://www.instagram.com/william_7habit)
+
+## 截图：
+![PC](/style/PC-index.png)
+
+![](/style/PC-blog.png)
+
+![mobile](/style/mobile-index-2.png)
