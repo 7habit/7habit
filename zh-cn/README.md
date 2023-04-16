@@ -1,6 +1,6 @@
-## Introduction 
-### What is 7Habit
-The 7 Habits of Highly Effective People is a self-improvement book by Stephen Covey. It introduces a holistic, integrated, and principle-centered approach for solving personal and professional problems. The 7 habits are a set of behaviors that can help people become more effective in work and life.
+## 介绍
+### 什么是7Habit
+《高效能人士的七个习惯》是史蒂芬·柯维的一本自我提升书籍。它引入了一种整体的、综合的、以原则为中心的方法来解决个人和专业问题。这 7 个习惯是一组可以帮助人们在工作和生活中变得更有效率的行为。
 
 ### Why practice
 There are several reasons to practice the 7 Habits:
