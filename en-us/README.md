@@ -1,41 +1,39 @@
-## Introduction 
+# Welcome to 7habit.top
+
 ### What is 7Habit
-The 7 Habits of Highly Effective People is a self-improvement book by Stephen Covey. It introduces a holistic, integrated, and principle-centered approach for solving personal and professional problems. The 7 habits are a set of behaviors that can help people become more effective in work and life.
+The 《7 Habits of Highly Effective People》 is a self-improvement book by Stephen Covey. It introduces a holistic, integrated, and principle-centered approach for solving personal and professional problems. The 7 habits are a set of behaviors that can help people become more effective in work and life.
 
-### Why practice
-There are several reasons to practice the 7 Habits:
+The 7 habits covered in the book The 7 Habits of Highly Effective People are:
 
-1. Achieve self-mastery. Learn to build your character and personality.
-2. Develop effective leadership. Improve your ability to lead in a principle-centered way. 
-3. Enhance teamwork and cooperation. Achieve better relationships and team synergy. 
-4. Increase productivity. Build capability to prioritize, focus and get important things done. 
-5. Maintain work-life balance. Find ways to stay motivated and fulfill all roles with integrity.
-6. Continuously improve. Cultivate the habit of constant progress and lifelong learning.
+1.  Be Proactive - Take initiative and responsibility for your life.
+2.  Begin with the End in Mind - Define your goals and vision for the future to guide your goals and actions.
+3.  Put First Things First - Prioritize important over urgent things and spend time on things that matter most.
+4.  Think Win-Win - Develop cooperative relationships that lead to mutually beneficial outcomes.
+5.  Seek First to Understand, Then to Be Understood - Listen to understand others before seeking to be understood yourself.
+6.  Synergize - Work together cooperatively by valuing differences and building on each other's strengths.
+7.  Sharpen the Saw - Continuously improve and renew yourself through learning and habit improvement.
 
+In short, the 7 habits represent a holistic, principle-centered, and balanced approach to personal and interpersonal growth that leads to meaningful success and purpose.  By practicing these habits consistently, one can achieve an upward spiral of growth leading to increasing effectiveness and better relationships.
 
-### How to prepare
-To prepare for practicing the 7 Habits, here are some suggestions:
+### The purpose of creating this website
+The purpose of creating this website is to share with you the wisdom and skills of life I have learned from reading and practicing Stephen Covey's 《7 Habits of Highly Effective People》.   
 
-1. Read the book "The 7 Habits of Highly Effective People" and use the workbook to deepen your understanding.
-2. Assess your current habits and effectiveness using the 7 Habits Profile tool. See where you need improvements.
-3. Start with small changes and commitments. Don't try to change everything at once. Focus on one habit at a time.
-4. Find an accountability partner or form a small group. Share learning and experience together. 
-5. Review the habits regularly. Use reminders to practice them in work and life. Develop your own materials or tools. 
-6. Be patient and maintain a growth mindset. Developing good habits takes time and continuous effort. But the rewards are worth it!
-7. Apply and share the 7 Habits. Look for ways to benefit people around you while improving your own practice. Help others be effective too.
+The 7 habits summarized in this book outline the basic principles of personal growth, relationship management and productivity improvement. It helps readers establish self-leadership ability from a holistic and long-term perspective.Since the first time I read this book and began to apply the principles and tools it teaches, my life has changed profoundly.   
 
+Therefore, through this website, I want to share what I have learned, gained and understood in the process of practicing the 7 habits. Whether you are new to this book or have already begun to apply its principles, I hope the content here will be helpful to you.  
 
-### What I can bring to readers
-My practice of the 7 Habits can provide valuable insights and lessons for readers in several ways: 
+I will share my understanding and experience of each habit on the website, talk about the lessons I learned in the practice process, and the changes and gains these habits brought to various aspects of work and life.   
 
-1. By sharing my experience of studying and applying the 7 Habits, readers can gain a more personal and practical understanding of this transformative methodology beyond theoretical knowledge. Through specific examples, stories and reflections in my practice logs, readers can see what each Habit actually looks like in real work and life situations. 
-2. By documenting my challenges, difficulties and even failures along the journey, readers can get a more balanced and realistic view of what it takes to develop the 7 Habits. Self-improvement is a dynamic process that requires patience and persistence through ups and downs. My logs can inspire others to start and stay motivated. 
-3. By assessing my progress and key accomplishments from practicing the 7 Habits over time, readers can appreciate the significant benefits and positive changes it can bring to people who make the effort to internalize and apply it. These results can range from better productivity and work-life harmony to stronger relationships and a leader mindset. 
-4. In summary, through the practice logs, readers can gain practical insights into the 7 Habits, understand the challenges involved, stay motivated and consistent, and ultimately achieve their own breakthrough by learning from the outcomes and growth I have experienced. My goal is to spread the profound and transformative wisdom contained within the 7 Habits through authentic stories of struggle and victory.
-5. This highlights how documenting and sharing your practice journey of the 7 Habits can inspire and help others in their own journey. By making your experience transparent and accessible, readers get to see both the inspiring outcomes as well as the messy process. This can motivate them to start and sustain their self-improvement effort to ultimately achieve life-changing results.
+If you are also working hard to cultivate these 7 habits, welcome to share with me what you have gained and learned. We can form a discussion and learning community.   
 
+Finally, through this website, I hope we can discuss important topics in life together, and exchange skills and methods to achieve efficiency and a happy life. Let us work together to embrace this gift that gives us the ability and strength to achieve our common goals and ideals.    
 
-## My social accounts
+Through life together,   
+
+_William_
+
+### My social accounts
   - E-mail：william_7habit@outlook.com
   - Twiter：[@william_7habit](https://twitter.com/william_7habit)
   - Instagram：[william_7habit](https://www.instagram.com/william_7habit)
+

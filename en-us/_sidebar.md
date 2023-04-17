@@ -1,27 +1,20 @@
-- [ Proactive ]
-	- [2023-04](/en-us/01_proactive/2023-04.md)
-	- [2023-04](/en-us/01_proactive/2023-04.md)
-	
-- [ results-oriented ]
-	- [2023-04](/en-us/02_target/2023-04.md)
-	- [2023-04](/en-us/02_target/2023-04.md)
+- 7 Habits
+	- [ Proactive ](/en-us/01_proactive.md)
+	- [ Results-oriented ](/en-us/02_target.md)
+	- [ Priorities come first ](/en-us/03_important.md)
+	- [ Win-win ](/en-us/04_win-win.md)
+	- [ Understand others ](/en-us/05_understand.md)
+	- [ 1 + 1 > 2](/en-us/06_cooperation.md)
+	- [ Constant updating ](/en-us/07_promotion.md)
 
-- [ priorities come first ]
-	- [2023-04](/en-us/03_Important/2023-04.md)
-	- [2023-04](/en-us/03_Important/2023-04.md)
+- PDCA
+	- [ Plan ](/en-us/11_plan.md)
+	- [ Do ](/en-us/12_do.md)
+	- [ Check ](/en-us/13_check.md)
+	- [ Act ](/en-us/14_act.md)
 
-- [ Win-win ]
-	- [2023-04](/en-us/04_win-win/2023-04.md)
-	- [2023-04](/en-us/04_win-win/2023-04.md)
-
-- [ Understand others ]
-	- [2023-04](/en-us/05_understand/2023-04.md)
-	- [2023-04](/en-us/05_understand/2023-04.md)
-
-- [ 1 + 1 > 2 ]
-	- [2023-04](/en-us//06_cooperation/2023-04.md)
-	- [2023-04](/en-us//06_cooperation/2023-04.md)
-
-- [ Constant updating ]
-	- [2023-04](/en-us/07_promotion/2023-04.md)
-	- [2023-04](/en-us/07_promotion/2023-04.md)
+- Power of mind
+	- [ Talking with god ](/en-us/21_talking.md)
+	- [ Surrender experiment ](/en-us/22_submissioin.md)
+	- [ Thinking rich ](/en-us/23_thinking)
+	- [ Secret ](/en-us/24_secret.md)

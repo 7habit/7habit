@@ -1,6 +1,6 @@
 <img width="160px" style="border-radius: 50%" bor src="style/7habit.jpg">
 
-# **7 Habits**
+# **7 Habit**
 
 > William Practice Logs for “7 Habits”
   - Proactive, results-oriented, priorities come first
@@ -8,7 +8,7 @@
   - Constant updating
 
 
+[中文读者请进](/zh-cn/README.md)
+[Begin reading](/en-us/README.md)
 
-[Twiter](https://twitter.com/william_7habit)
-[Read](/en-us/README.md)
 
