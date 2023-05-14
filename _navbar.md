@@ -1,14 +1,15 @@
-- [<font color=#272F32>Index Page</font>](/en-us/README.md)
+- [<font color=#272F32>首页</font>](/zh-cn/README.md)
 
-- <font color=#272F32>Directory</font>
-	- [ 7 Habits ](/en-us/7habit.md)
-	- [ PDCA ](/en-us/pdca.md)
-	- [ Power of mind ](/en-us/power.md)
-	- [ ├─Talking with god ](/en-us/power_talking.md)
-	- [ ├─Surrender experiment   ](/en-us/power_submissioin.md)
-	- [ ├─Thinking rich ](/en-us/power_thinking.md)
-	- [ └─Secret ](/en-us/power_secret.md)
+- <font color=#272F32>立即阅读</font>
+	- [ 七个习惯 ](/zh-cn/7habit.md)
+	- [ PDCA ](/zh-cn/pdca.md)
+	- [ └─心灵演练 ](/zh-cn/pdca_mental_exercise.md)
+	- [ 心灵力量 ](/zh-cn/power.md)
+	- [ ├─与神对话 ](/zh-cn/power_talking.md)
+	- [ ├─臣服实验 ](/zh-cn/power_submissioin.md)
+	- [ ├─思考致富 ](/zh-cn/power_thinking.md)
+	- [ └─秘密 ](/zh-cn/power_secret.md)
+
 - <font color=#272F32>Language</font>
-    - [**English**](/en-us/)
-    - [简体中文](/zh-cn/)
-
+    - [**简体中文**](/zh-cn/)
+    - [English](/en-us/)

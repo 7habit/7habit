@@ -1,39 +1,33 @@
-# Welcome to 7habit.top
+# 欢迎来到7habit.top
 
-### What is 7Habit
-The 《7 Habits of Highly Effective People》 is a self-improvement book by Stephen Covey. It introduces a holistic, integrated, and principle-centered approach for solving personal and professional problems. The 7 habits are a set of behaviors that can help people become more effective in work and life.
+### 首先你需要了解《高效人士的7个习惯》
+《高效能人士的7个习惯》是史蒂芬•科维写的一本自我提高的书。它介绍了一种整体的，融合的，以原则为中心的方法来解决个人和职业问题。7个习惯是一组可以帮助人们在工作和生活中变得更加高效的行为。
+  
+这本书提出的7个习惯如下:
+1. 积极主动 - 以主人翁的态度主导生活。
+2. 以终为始 - 以最终目标为指导，制定计划和行动。
+3. 要事第一 - 将重要但不紧急的事情列为首要事项。
+4. 双赢 - 通过合作伙伴关系解决问题，实现双赢。
+5. 知己解彼 - 用系统思维理解事物之间的相互依存关系。
+6. 统合综效 - 通过互相理解、同理心和转化来发挥最大的协同效应。
+7. 不断更新 - 通过学习、反思和提高自我修养实现持续改进。
+  
+这7个习惯概述了个人成长、关系处理和生产力提高的基本原则，它以一种整体的、长远的视角来建立自我领导能力。这本书自1989年出版以来，已帮助无数人在生活和工作中取得成功。
 
-The 7 habits covered in the book The 7 Habits of Highly Effective People are:
+### 为什么有这个网站
+我创建这个网站的目的是要与大家分享我在学习和践行Stephen Covey的《高效能人士的7个习惯》这本书中的人生智慧与技巧。这本书提出的7个习惯概括了个人成长、关系处理和生产力提高的基本原则，它以一种整体的、长远的视角帮助读者建立自我领导能力。
+  
+自从我第一遍阅读这本书并且开始运用它教导的原则与工具后，我的人生发生了深刻的改变。因此，我要通过这个网站与更多的人分享我在践行7个习惯过程中的所学、所得与所悟。  
+  
+无论你是首次接触这本书，或是已经开始运用其中的原则，我都希望这里的内容能对你有所帮助。
+  
+我会在网站上分享我对每一个习惯的理解与体会，讲述我在实践过程中学到的教训，以及这些习惯在工作与人生各个方面带来的改变与收获。如果你也正在努力培养这7个习惯，欢迎与我分享你的所得与心得，我们可以形成一个讨论与学习社区。  
+  
+最后，我希望通过这个网站，我们能一起探讨人生重要的话题，交流实现高效与幸福生活的技能与方法。让我们携手拥抱这份给予我们能力与力量的礼物，实现我们共同的目标与理想。  
+  
 
-1.  Be Proactive - Take initiative and responsibility for your life.
-2.  Begin with the End in Mind - Define your goals and vision for the future to guide your goals and actions.
-3.  Put First Things First - Prioritize important over urgent things and spend time on things that matter most.
-4.  Think Win-Win - Develop cooperative relationships that lead to mutually beneficial outcomes.
-5.  Seek First to Understand, Then to Be Understood - Listen to understand others before seeking to be understood yourself.
-6.  Synergize - Work together cooperatively by valuing differences and building on each other's strengths.
-7.  Sharpen the Saw - Continuously improve and renew yourself through learning and habit improvement.
 
-In short, the 7 habits represent a holistic, principle-centered, and balanced approach to personal and interpersonal growth that leads to meaningful success and purpose.  By practicing these habits consistently, one can achieve an upward spiral of growth leading to increasing effectiveness and better relationships.
-
-### The purpose of creating this website
-The purpose of creating this website is to share with you the wisdom and skills of life I have learned from reading and practicing Stephen Covey's 《7 Habits of Highly Effective People》.   
-
-The 7 habits summarized in this book outline the basic principles of personal growth, relationship management and productivity improvement. It helps readers establish self-leadership ability from a holistic and long-term perspective.Since the first time I read this book and began to apply the principles and tools it teaches, my life has changed profoundly.   
-
-Therefore, through this website, I want to share what I have learned, gained and understood in the process of practicing the 7 habits. Whether you are new to this book or have already begun to apply its principles, I hope the content here will be helpful to you.  
-
-I will share my understanding and experience of each habit on the website, talk about the lessons I learned in the practice process, and the changes and gains these habits brought to various aspects of work and life.   
-
-If you are also working hard to cultivate these 7 habits, welcome to share with me what you have gained and learned. We can form a discussion and learning community.   
-
-Finally, through this website, I hope we can discuss important topics in life together, and exchange skills and methods to achieve efficiency and a happy life. Let us work together to embrace this gift that gives us the ability and strength to achieve our common goals and ideals.    
-
-Through life together,   
-
-_William_
-
-### My social accounts
+### 我的社交账号
   - E-mail：william_7habit@outlook.com
   - Twiter：[@william_7habit](https://twitter.com/william_7habit)
   - Instagram：[william_7habit](https://www.instagram.com/william_7habit)
-

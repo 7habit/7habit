@@ -1,14 +1,13 @@
 <img width="160px" style="border-radius: 50%" bor src="style/7habit.jpg">
 
-# **7 Habit**
+# **七个习惯实践日志**
 
-> William Practice Logs for “7 Habits”
-  - Proactive, results-oriented, priorities come first
-  - Win-win, know yourself and know your rival, integrated and comprehensive effect
-  - Constant updating
+> William的高效能七个习惯实践日志
+  - 个人领域成功：积极主动、以终为始、要事第一
+  - 公众领域成功：双赢、知彼解己、统合综效
+  - 不断更新
 
 
-[中文读者请进](/zh-cn/README.md)
-[Begin reading](/en-us/README.md)
+[阅读](/README.md)
 
 
