@@ -28,6 +28,4 @@
 
 
 ### 我的社交账号
-  - E-mail：william_7habit@outlook.com
-  - Twiter：[@william_7habit](https://twitter.com/william_7habit)
-  - Instagram：[william_7habit](https://www.instagram.com/william_7habit)
+  - E-mail：duchuang0826@gmail.com
