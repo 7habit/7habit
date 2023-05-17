@@ -1,6 +1,6 @@
 - [ 七个习惯 ](7habit.md)
-- [ PDCA ](pdca.md)
-- [ 心灵演练 ](心灵演练.md)
-- [ 心灵力量 ](心灵力量.md)
+- [ PDCA-P ](pdca-p.md)
+- [ PDCA-C ](pdca-c.md)
+- [ 精神力量 ](power.md)
 
 
