@@ -1,4 +1,5 @@
 # 高效能人士的7个习惯
+## 这本书讲了什么
 作者用一生来研究和实践关于人生成功的方法论，包括了:
 > 个人领域成功：分别为积极主动、以终为始、要事第一
 
@@ -10,7 +11,7 @@
 一个实用的、底层的获得成功的方法论，成功不只是财富，而是身心、社会关系，从内而外的成功。
 
 ## 观看视频
-<iframe height=498 width=510 src="//player.bilibili.com/player.html?aid=948729195&bvid=BV1Qs4y1p7db&cid=988763395&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<iframe height=498 width=510 src="//player.bilibili.com/player.html?aid=948729195&bvid=BV1Qs4y1p7db&cid=988763395&page=1&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 ## 思维导图
 ![点击查看思维导图](asset/7habit.svg)
