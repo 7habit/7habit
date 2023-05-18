@@ -6,12 +6,12 @@
 这本书需要你一遍一遍翻看，会带给你世界观的颠覆。如果你只需要一本找到内心秩序的书籍，如果你只需要一本找到精神力量的书籍，如果你只需要一本关于真理的书籍，那就是这本。
 
 ### 观看视频
-<iframe height=498 width=510 src="//player.bilibili.com/player.html?aid=57934489&bvid=BV1G4411c7yG&cid=101100272&page=1&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<iframe height=498 width=510 src="//player.bilibili.com/player.html?aid=931675624&bvid=BV1sM4y1K7fx&cid=371168346&page=1&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 ## 思考致富
 思考致富是成功学大师拿破仑希尔的书籍，她认为在宇宙中只有能量和物质两种类型，并且能量是可以转换为物质的。这本书相对于吸引力法则，它在书中更加强调了对于创造力的运用，并且给出了一套可以用于将能量转换为成功的方法。这本书不是教你自我欺骗，如果你看过与神对话，你将会认可这本书的内容。
 ### 观看视频
-<iframe height=498 width=510 src="//player.bilibili.com/player.html?aid=718959894&bvid=BV1aQ4y1S7mN&cid=435111005&page=1&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<iframe height=498 width=510 src="//player.bilibili.com/player.html?aid=401164403&bvid=BV1Zd4y1f7fd&cid=1132655525&page=1&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 ### 思维导图
 ![点击查看思维导图](asset/思考致富.svg)
