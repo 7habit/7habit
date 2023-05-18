@@ -1,7 +1,5 @@
 # 心灵力量
-
-## 这里是什么
-这里主要推荐一些对于心灵成长有帮助的书籍，它们于我而言是最重要的心灵的启蒙，也奠定了我的精神能量基础，奠定了我的世界观架构，希望你也可以从这些书籍中汲取到智慧，发现自己此生的使命。
+>这里主要推荐一些对于心灵成长有帮助的书籍，它们于我而言是最重要的心灵的启蒙，也奠定了我的精神能量基础，奠定了我的世界观架构，希望你也可以从这些书籍中汲取到智慧，发现自己此生的使命。
 
 ## 与神对话
 一个在与生活不断对抗，但不断落魄的人，在书写对于上帝的气愤的时候，内心出现了上帝的声音。
@@ -29,11 +27,11 @@
 
 
 
-## 臣服实验，迈克尔·伯格
+## 臣服实验，迈克尔·辛格
 和书名提到的臣服不同，作者指的是把心放在当下你能做的事情上，而不是担心和恐惧，当你把心从恐惧上移开，你会消解这份能量的阻塞，甚至能帮助你的能量更上一层楼。臣服实验这本书是作者一生的经历，着眼于心中和当下，他所做的一切，没有欲望和焦虑，而是不断执着于当下，你能获得你想要拥有的一切。
 
-## 视频
-<iframe src="//player.bilibili.com/player.html?aid=650089566&bvid=BV1Be4y1G748&cid=957891364&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+### 视频
+<iframe height=498 width=510 src="//player.bilibili.com/player.html?aid=650089566&bvid=BV1Be4y1G748&cid=957891364&page=1&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 ### 思维导图
 ![点击查看思维导图](asset/臣服实验.svg)
