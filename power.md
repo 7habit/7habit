@@ -26,3 +26,15 @@
 
 ### 思维导图
 ![点击查看思维导图](asset/secret.svg)
+
+
+
+## 臣服实验，迈克尔·伯格
+和书名提到的臣服不同，作者指的是把心放在当下你能做的事情上，而不是担心和恐惧，当你把心从恐惧上移开，你会消解这份能量的阻塞，甚至能帮助你的能量更上一层楼。臣服实验这本书是作者一生的经历，着眼于心中和当下，他所做的一切，没有欲望和焦虑，而是不断执着于当下，你能获得你想要拥有的一切。
+
+## 视频
+<iframe src="//player.bilibili.com/player.html?aid=650089566&bvid=BV1Be4y1G748&cid=957891364&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+
+### 思维导图
+![点击查看思维导图](asset/臣服实验.svg)
+
