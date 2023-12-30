@@ -1,4 +1,4 @@
-<img width="160px" style="border-radius: 50%" bor src="style/7habit.jpg">
+<img width="160px" style="border-radius: 50%" bor src="asset/7habit.jpg">
 
 # **七个习惯实践日志**
 

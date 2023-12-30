@@ -1,6 +1,6 @@
-- [ 七个习惯 ](7habit.md)
-- [ PDCA-P ](pdca-p.md)
-- [ PDCA-C ](pdca-c.md)
-- [ 精神力量 ](power.md)
+- [ 什么是七个习惯 ](7habit.md)
+- [ 精神力量来源 ](power.md)
+- [ 黎明 ](dawn.md)
+- [ 游戏行业 ](game.md)
 
 
